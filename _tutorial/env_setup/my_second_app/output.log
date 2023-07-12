@@ -1,0 +1,6 @@
+info Found Xcode workspace "my_second_app.xcworkspace"
+info Building (using "xcodebuild -workspace my_second_app.xcworkspace -configuration Debug -scheme my_second_app -destination id=EFFFF7D2-94DC-4F9C-8294-8FEC7650FE35")
+.......................................................................................................................................................................................................................................................................................................................................................................................................................................................................
+info Installing "/Users/youngseokjoung/Library/Developer/Xcode/DerivedData/my_second_app-exuifqbfxlrezydgjghedcnisnnk/Build/Products/Debug-iphonesimulator/my_second_app.app"
+info Launching "org.reactjs.native.example.my-second-app"
+success Successfully launched the app on the simulator
